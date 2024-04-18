@@ -1,1 +1,1 @@
-# IVC-ML-VQI
+# This code was used to develop and evaluate machine learning models for the prediction of 1-year filter-related complications following inferior vena cava filter placement using the Vascular Quality Initiative Database in the manuscript entitled "Predicting inferior vena cava filter complications using machine learning" by Li and colleagues. The code was written in R verison 4.3.1.
